@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("teste");
 
-        System.out.println("versão atualizada");
+        System.out.println("versão atualizada 2");
 
         //teste branch nova
     }

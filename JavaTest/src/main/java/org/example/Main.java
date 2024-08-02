@@ -3,9 +3,14 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello and welcome!");
-        System.out.println("rafa meu parceiro");
-        System.out.println("1+1 = 2");
+        String primeiroNome = "Romulo";
+        String segundoNome = "Rodrigues";
 
+        String nomeCompleto = nomeCompleto (primeiroNome,segundoNome);
+        System.out.println(nomeCompleto);
+    }
+
+    public static String nomeCompleto(String primeiroNome, String segundoNome){
+        return "Reultado do método " + primeiroNome.concat(" ").concat(segundoNome);
     }
 }

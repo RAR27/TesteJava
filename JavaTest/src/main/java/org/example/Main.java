@@ -5,10 +5,5 @@ public class Main {
 
         System.out.println("Hello and welcome!");
 
-        //TESTE
-
-        //teste de branch
-
-        //romulo teste
     }
 }

@@ -5,10 +5,5 @@ public class Main {
 
         System.out.println("Hello and welcome!");
 
-        System.out.println("teste");
-
-        System.out.println("versão atualizada 3");
-
-        //teste branch nova
     }
 }

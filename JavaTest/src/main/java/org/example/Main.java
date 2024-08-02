@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello and welcome!");
         System.out.println("rafa meu parceiro");
+        System.out.println("1+1 = 2");
 
     }
 }
